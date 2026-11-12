@@ -24,7 +24,7 @@
     "@js-joda/core": "^3.2.0",
     "@openapitools/openapi-generator-cli": "^2.2.2",
     "@types/swagger-jsdoc": "^3.0.2",
-    "axios": "^0.21.1",
+    "axios": "^0.34.0",
     "body-parser": "^1.19.0",
     "core-js": "^3.6.4",
     "cors": "^2.8.5",
